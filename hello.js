@@ -13,6 +13,7 @@ var quote = 'Quoth the Raven "Nevermore"';
 console.log(quote); 
 console.log(quote + sum);
 console.log(sum+3);
+console.log(sum);
 /*  
 Next, PLAY! 
 Modify your code on line 7 to try to accomplish the tasks listed below:
