@@ -14,7 +14,7 @@ console.log(quote);
 console.log(quote + sum);
 console.log(sum+3);
 console.log(sum);
-console.log("Sara Iyiyol is so happy to complet task!")
+console.log("Sara Iyiyol is so happy to complete task!")
 /*  
 Next, PLAY! 
 Modify your code on line 7 to try to accomplish the tasks listed below:
