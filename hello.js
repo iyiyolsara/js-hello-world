@@ -4,8 +4,14 @@ Enter your code on line 7 to print 'Hello, World!'
 to the console (the panel on the right)
 */
 
-console.log("Hello");
-
+console.log("Hello World!")
+console.log(2+3);
+var sum = 2+3;
+console.log(sum);
+console.log("Hello World!" + sum);
+var quote = 'Quoth the Raven "Nevermore"';
+console.log(quote); 
+console.log(quote + sum);
 /*  
 Next, PLAY! 
 Modify your code on line 7 to try to accomplish the tasks listed below:
